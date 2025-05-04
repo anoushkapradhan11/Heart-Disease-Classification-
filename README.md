@@ -1,1 +1,1 @@
-Developed a Artificial Intelligence Model that classifies the presence and absence of heart disease using machine learning approach, specifically Random Forest algorithm.Developed Skills - Python, Machine Learning,NumPy,Random Forest
+Developed a Artificial Intelligence Model that classifies the presence and absence of heart disease using machine learning approach, specifically Random Forest algorithm.Developed Skills - Python,Artificial Intelligence,NumPy,Random Forest
